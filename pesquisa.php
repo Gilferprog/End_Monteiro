@@ -37,6 +37,16 @@ while ($linha = mysqli_fetch_array($resultado_nomes)) {
     <header>
         <h1>Resultado da Pesquisa</h1>        
     </header>
+
+    <nav>
+        <ul>  
+            <li>
+            <a href="index.php" style="color: black; ">
+            Home
+            </a>
+            </li>
+        </u>
+        </nav>
     
     <br>
 
